@@ -463,7 +463,7 @@ function gameExists(key) {
 }
 
 async function loadGames() {
-    const owner = "beastcooper";
+    const owner = "Math-Helper";
     const repo = "MHI_games";
     const branch = "master";
     const basePath = "offline";
